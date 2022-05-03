@@ -29,7 +29,7 @@
 
 ; cn域名都不走代理
 *.cn
-
+*.feishu.com
 *.00cdn.com
 *.0daydown.com
 *.0o0.ooo
