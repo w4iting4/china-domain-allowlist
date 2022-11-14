@@ -29,6 +29,7 @@
 
 ; cn域名都不走代理
 *.cn
+*.csdn.net
 *.zsxq.com
 *.feishu.com
 *.tttang.com
