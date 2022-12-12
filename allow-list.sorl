@@ -28,6 +28,7 @@
 192.168.*.*
 
 ; cn域名都不走代理
+*.fofa.info
 *.cn
 *.csdn.net
 *.zsxq.com
