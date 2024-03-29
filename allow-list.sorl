@@ -28,6 +28,7 @@
 192.168.*.*
 
 ; cn域名都不走代理
+*.venustech.cloud
 *.letsign.com
 *.jdcloud.com
 *.nosec.org
